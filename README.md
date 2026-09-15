@@ -76,4 +76,4 @@ Cara tercepat tampil di halaman **Kontributor**: tambahkan dirimu ke
 
 ## Lisensi
 
-[MIT](LICENSE) © 2026 Ravi Arnan
+[MIT](LICENSE) © 2026
